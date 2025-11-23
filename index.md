@@ -1,5 +1,3 @@
-# Axel’s Baseball Game — Support
-
 Thanks for playing! If you need help, have feedback, or found a bug, reach me here:
 
 - **Email:** [taylorengelking113@gmail.com](mailto:TaylorEngelking113@gmail.com)  
